@@ -72,7 +72,7 @@ To analyse the real estate data to identify and quantify how various geographic 
 **5. Build your Model.**
    
    <br>
-   <img src="https://github.com/Abdulmalik25/Terro-s-Real-Estate-Pricing-Analysis-Excel-Project/assets/153974173/f63a3b5f-98e3-46f8-b853-53b56617d95a" alt="2e" width="800" height="600">
+   <img src="https://github.com/Abdulmalik25/Terro-s-Real-Estate-Pricing-Analysis-Excel-Project/assets/153974173/f63a3b5f-98e3-46f8-b853-53b56617d95a" alt="2e" width="1000" height="800">
 
 
 
