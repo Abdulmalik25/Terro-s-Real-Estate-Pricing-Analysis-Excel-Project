@@ -58,6 +58,21 @@ To analyse the real estate data to identify and quantify how various geographic 
    <br>
    <img src="https://github.com/Abdulmalik25/Terro-s-Real-Estate-Pricing-Analysis-Excel-Project/assets/153974173/4ef7bdb1-77fb-499d-aa48-d2d531314f98" alt="2c" width="700" height="350">
 
+**4. Create a correlation matrix of all the variables**
+   a) Which are the top 3 positively correlated pairs and
+   b) Which are the top 3 negatively correlated pairs.
+
+   - **AVG_PRICE and LSTAT** exhibit a negative correlation, suggesting that a decrease in one variable is associated with an increase in the other.
+   - The lower number of rooms in properties for people with higher LSTAT values can be attributed to the lower AVG_PRICE of houses in such areas.
+   - **TAX and the distance of homes from the office** are positively correlated, indicating that people living in houses farther from the office tend to pay higher taxes.
+
+   <br>
+   <img src="https://github.com/Abdulmalik25/Terro-s-Real-Estate-Pricing-Analysis-Excel-Project/assets/153974173/0969bad5-820d-4920-8674-96446ed38d7c" alt="2d" width="700" height="350">
+
+**5. Build your Model.**
+   
+   <br>
+   <img src="https://github.com/Abdulmalik25/Terro-s-Real-Estate-Pricing-Analysis-Excel-Project/assets/153974173/f63a3b5f-98e3-46f8-b853-53b56617d95a" alt="2e" width="700" height="350">
 
 
 
