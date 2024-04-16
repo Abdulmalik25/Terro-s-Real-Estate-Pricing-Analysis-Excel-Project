@@ -78,7 +78,7 @@ To analyse the real estate data to identify and quantify how various geographic 
 Regression equation: y= 29.42847349 -10.27270508*(NOX) - 1.071702473*(PTRATIO) -0.605159282*(LSTAT) -0.014452345*(TAX) +0.03293496*(AGE) +0.130710007*(INDUS) +0.261506423*(DISTANCE) +4.125468959*(AVG_ROOM)
 
 
-##Key Insights
+## Key Insights
 
 - **Crime Rate and Property Prices:** Higher crime rates correspond to lower property prices, indicating a negative relationship between the two variables.
 
