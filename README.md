@@ -75,9 +75,10 @@ To analyse the real estate data to identify and quantify how various geographic 
    <img src="https://github.com/Abdulmalik25/Terro-s-Real-Estate-Pricing-Analysis-Excel-Project/assets/153974173/f63a3b5f-98e3-46f8-b853-53b56617d95a" alt="2e" width="1000" height="800">
 
 # Regression Equation
+Regression equation: y= 29.42847349 -10.27270508*(NOX) - 1.071702473*(PTRATIO) -0.605159282*(LSTAT) -0.014452345*(TAX) +0.03293496*(AGE) +0.130710007*(INDUS) +0.261506423*(DISTANCE) +4.125468959*(AVG_ROOM)
 
 
-**Key Insights**
+#**Key Insights**
 
 - **Crime Rate and Property Prices:** Higher crime rates correspond to lower property prices, indicating a negative relationship between the two variables.
 
