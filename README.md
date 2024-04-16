@@ -1,6 +1,9 @@
 # Terro-s-Real-Estate-Pricing-Analysis-Excel-Project
 Explore how environmental and social factors like crime rates, pollution levels, and educational resources impact property values in my latest project, "Terro’s Real Estate Pricing Analysis".Using regression models and exploratory data analysis in Excel, I uncover the key drivers that influence house pricing in diverse localities. Dive into my findings and methodologies on GitHub to see data-driven real estate insights in action!
 
+## Tech Stack used
+<img src="https://github.com/Abdulmalik25/HBFC_Personal_Loan_Analysis_Excel-Project/assets/153974173/c69248d4-f54b-42af-9fd9-3b1d346ac291" alt="Picture1" width="350" height="350">
+
 ## Objective
 To analyse the real estate data to identify and quantify how various geographic and societal factors—such as crime rates, pollution levels, and proximity to educational resources—affect property values within specific localities. This analysis aims to provide Terro's Real Estate Agency with actionable insights to optimize property pricing strategies and enhance business.
 
