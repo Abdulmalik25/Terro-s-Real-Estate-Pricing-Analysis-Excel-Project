@@ -74,6 +74,28 @@ To analyse the real estate data to identify and quantify how various geographic 
    <br>
    <img src="https://github.com/Abdulmalik25/Terro-s-Real-Estate-Pricing-Analysis-Excel-Project/assets/153974173/f63a3b5f-98e3-46f8-b853-53b56617d95a" alt="2e" width="1000" height="800">
 
+# Regression Equation
+
+
+**Key Insights**
+
+- **Crime Rate and Property Prices:** Higher crime rates correspond to lower property prices, indicating a negative relationship between the two variables.
+
+- **Property Age and Pupil-Teacher Ratio:** Older properties tend to have lower pupil-teacher ratios, suggesting that older neighborhoods may have fewer school-age children.
+
+- **Industrial Proportion and Property Tax:** Areas with a higher proportion of non-retail businesses often have higher property tax rates, indicating a positive relationship between these variables.
+
+- **NOX and Distance:** Lower nitric oxide concentrations (NOX) are associated with closer proximity to employment centers, highlighting the relationship between air quality and distance from urban hubs.
+
+- **Property Prices and Income Level:** Higher percentages of lower-status populations correlate with lower average house prices, indicating a negative association between income level and property values.
+
+- **Variability in Tax Rates:** There is significant variability in property tax rates across different neighborhoods, indicating differences in local tax policies and their impact on property values.
+
+- **Regression Model Insights:** The multiple linear regression model exhibits significant predictive power, with all variables demonstrating statistical significance (p < 0.05) and an adjusted R-squared value of approximately 68.8%, suggesting that the model explains a considerable portion of the variance in property prices.
+
+# Conclusion
+
+In my project, "Terro’s Real Estate Pricing Analysis," I explore how different factors affect property prices. It helped me understand how to use tools in Excel like Summary statistics, Histogram, correlation table, and Regression analysis. These tools helped me uncover important insights about real estate pricing. 
 
 
 
